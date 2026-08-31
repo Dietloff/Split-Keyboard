@@ -10,6 +10,8 @@ No PCB was fabricated for this build — every switch in both halves is wired by
      ![The assembled keyboard](docs/keyboard.jpg)
      A second photo of the hand-wired matrix underneath is worth including too — it is the
      part people find most interesting. -->
+<img width="1280" height="960" alt="TopView" src="https://github.com/user-attachments/assets/61a613c2-79dd-40fc-b57c-23af29321998" />
+<img width="1280" height="960" alt="BottomView" src="https://github.com/user-attachments/assets/00fcb779-b77f-452f-952e-99e565c634bb" />
 
 ## What's interesting here
 
