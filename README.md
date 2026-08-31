@@ -5,11 +5,6 @@ matrix, and firmware written from scratch in CircuitPython on two RP2040 microco
 
 No PCB was fabricated for this build — every switch in both halves is wired by hand.
 
-<!-- TODO: add a photo of the assembled keyboard here. This is the single highest-value
-     addition to this README. Something like:
-     ![The assembled keyboard](docs/keyboard.jpg)
-     A second photo of the hand-wired matrix underneath is worth including too — it is the
-     part people find most interesting. -->
 <img width="1280" height="960" alt="TopView" src="https://github.com/user-attachments/assets/61a613c2-79dd-40fc-b57c-23af29321998" />
 <img width="1280" height="960" alt="BottomView" src="https://github.com/user-attachments/assets/00fcb779-b77f-452f-952e-99e565c634bb" />
 
@@ -34,7 +29,7 @@ Most of the design effort went into a protocol that degrades gracefully instead 
 | Wiring | Hand-soldered point to point, no fabricated PCB |
 | Case | Custom laser-cut steel |
 | Interconnect | TRRS cable, UART on `GP16` (TX) / `GP17` (RX), 9600 baud |
-| Switches | <!-- TODO: switch type, e.g. Gateron Browns --> |
+| Switches | Gateron Browns
 | Layout | Ortholinear |
 
 ## Repository layout
